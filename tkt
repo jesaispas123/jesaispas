@@ -1,0 +1,51 @@
+<!doctype html>
+	
+<html lang="fr">
+
+	<head>
+	  <meta charset="utf-8">
+	  <title>Année 2020-2021</title>
+	  <link rel="stylesheet" href="cv.css" />
+	</head>
+	
+
+	<body>
+		<div id="page_complete">
+			<div id="header">
+			
+			</div>
+			<div id="nav">
+				
+				
+					<img src="images/acc.jpg" alt="image acc"> 
+				
+                    <a href="cv1.html"><img src="images/bbc1.jpg" alt="image bbc1"></a> 
+					
+					<a href="cv2.html"><img src="images/bbc2.jpg" alt="image bbc2"></a>
+					
+					<a href="cv3.html"><img src="images/cnn.jpg" alt="image cnn"></a>
+					
+			</div>
+			<div id="section">
+		
+           		<div id="texte">
+				<h2> Page d'accueil </h2>
+				
+				<h3>Bienvenue sur notre site : Au programme ce soir</h3>
+				<H4>- Notre site peut vous permettre de tout connaitre du programme du soir, des chaines BBC 1, BBC 2 et CNN qui sont des chaines Britanniques et américaine. </h4>
+				<h3>- Site créé dans le cadre de notre TD en SIN par Loan</h3>
+				<p>Source : <a href="http://www.programme-tv.net">Programme TV </a> et <a href="https://fr.wikipedia.org">Wikipedia </a></p>
+				<p></p>
+				
+				</div>
+				
+				<div id="image1">
+			
+				</div>
+				
+				
+			</div>
+		</div>
+	</body>
+	
+</html>
